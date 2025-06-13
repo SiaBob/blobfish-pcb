@@ -10,8 +10,8 @@ My first PCB for solder hack club
 ![image](https://github.com/user-attachments/assets/431f8bd6-57d4-4abf-b380-b3f9991e78e4)
 
 # BOM
-1 Battery holder
-4 NPN Transistor
-4 4.7k Resistor
-3 220 Resistor
-2 Push Button
+1 Battery holder, 
+4 NPN Transistor, 
+4 4.7k Resistor, 
+3 220 Resistor, 
+2 Push Button, 
